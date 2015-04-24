@@ -1,7 +1,6 @@
 # timer-sgv
 
-Options:
-<code>
+<pre>
 	$(target).timerSVG({
 		time'				: 10,			//Initial time
 		activeStrokeColor	: "#472b93",	//Stroke color
@@ -15,4 +14,4 @@ Options:
 			//some code
 		}
 	});
-</code>
+</pre>
